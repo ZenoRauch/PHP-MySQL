@@ -1,0 +1,29 @@
+body{
+    background-color: #1d2228;
+    color: #e1e2e2;
+}
+
+h1{
+    color: #fb8122;
+}
+
+#btn{
+    background-color: #fb8122;
+    border: #1d2228;
+    color: #1d2228;
+    width: 150px;
+}
+
+#input{
+    background-color: #e1e2e2;
+    border: #fb8122 2px solid;
+    border-radius: 20px;
+}
+
+.irt{
+    text-align: center;
+}
+
+table{
+    margin-left: 35%;
+}

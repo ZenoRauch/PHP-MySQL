@@ -1,0 +1,1 @@
+This is a small application, which stores some values for an interview. It also can display them. Before they can get stored, you have to insert the values in the form.

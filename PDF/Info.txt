@@ -1,0 +1,1 @@
+Small application to show, how to create a PDF using PHP and MySQL. It's a small pdf with co-workers and their clients. The demo is the "doc.pdf".
